@@ -27,7 +27,7 @@
 
 2. **Pair Code Setup**  
    <p align="left">
-     <a href="https://aryann2-7e9cbfc31449.herokuapp.com/pair">
+     <a href="https://aryanbotpair-c23271e2bfdc.herokuapp.com/pair">
        <img src="https://img.shields.io/badge/Get%20Pair--Code-animeblue?style=for-the-badge&logo=whatsapp" alt="Pair Code">
      </a>
    </p>
