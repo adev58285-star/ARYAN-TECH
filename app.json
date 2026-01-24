@@ -39,7 +39,7 @@
     },
     "BOT_NAME" : {
       "description":"put A name for your bot",
-      "value":"𝙏𝙤𝙭𝙞𝙘 𝙈𝘿",
+      "value":"Aryaan",
       "required":false
     },
     "AUTO_READ_MESSAGES" : {
@@ -76,13 +76,13 @@
     {
       "desc": "Your Name",
       "required": false,
-      "value": "𝐱𝐡_𝐜𝐥𝐢𝐧𝐭𝐨𝐧"
+      "value": "Dave"
     },
     "NUMERO_OWNER":
     {
       "desc": "Your number , dont put '+' and put you area code(exemple of togo '228')",
       "required":false,
-      "value": "254735342808"
+      "value": "254735348"
     },
     "WARN_COUNT":
     {
