@@ -10,13 +10,17 @@
   <a href="https://github.com/adev58285-star"><img title="Author" src="https://img.shields.io/badge/Author-ARYAN%20Dev-blueviolet.svg?style=for-the-badge&logo=github"></a>
 </p>
 
+<p align="center">
+  <i>Base by <a href="https://github.com/Davex-254">Dave Tech</a></i>
+</p>
+
 ---
 
 ## 🚀 Deployment Set Up
 
 1. **Fork the Repository**  
    <p>
-  <a href="https://github.com/adev58285-star/ARYAN-BOT/fork" target="_blank">
+  <a href="https://github.com/adev58285-star/ARYAN-TECH/fork" target="_blank">
     <img src="https://img.shields.io/badge/Fork--Repository-black?style=for-the-badge&logo=github" alt="Fork ARYAN-TECH on GitHub">
   </a>
 </p>
@@ -24,13 +28,13 @@
 2. **Pair Code Setup**  
    <p align="left">
      <a href="https://aryann2-7e9cbfc31449.herokuapp.com/pair">
-       <img src="https://img.shields.io/badge/Get%20Pair--Code-animeblue?style=for-the-badge&logo=whatsapp" alt="Pair Code"
+       <img src="https://img.shields.io/badge/Get%20Pair--Code-animeblue?style=for-the-badge&logo=whatsapp" alt="Pair Code">
      </a>
    </p>
 
 3. **Deploy on Heroku**  
    <p align="left">
-  <a href="https://heroku.com/deploy?template=https://github.com/adev58285-star/ARYAN-BOT" target="_blank">
+  <a href="https://heroku.com/deploy?template=https://github.com/adev58285-star/ARYAN-TECH" target="_blank">
     <img src="https://img.shields.io/badge/Deploy%20to%20Heroku-430098?style=for-the-badge&logo=heroku" alt="Deploy ARYAN-TECH to Heroku">
   </a>
 </p>
@@ -45,3 +49,4 @@
 ---
 
 <p align="center">© 2025 — ARYAN DEV | Your WhatsApp Manager</p>
+<p align="center"><small>Base by <a href="https://github.com/Davex-254">Dave Tech</a></small></p>
